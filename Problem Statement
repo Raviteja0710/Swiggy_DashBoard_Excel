@@ -1,0 +1,16 @@
+                 KPIS
+                ------
+* Total Sales - Overall revenue generated from food orders.
+* AverageRrating - Customer satisfaction level across all resturants.
+* Average Order Value - Revenue per order.
+* Rating Count - Total number of customer reviews.
+* Total Orders -  Number of food orders received .
+              CHARTS
+              ------
+* Monthly Sales Trend - Shows how  total sales across month by month.
+* Daily Sales Trend - Highlights orders and revenue  variation across day of the week.
+* Total Sales By Food Type(veg/non veg) - Compares revenue  contribution by cuisine type.
+* Total Sales By State - Display state wise revenue distribution.
+* Quarterly Performance Summary - Combine sales,rating and orders by quarters.
+* Top 5 Cities By Sales -  Identifies cities with most revenue.
+* Weekly Trend Analysis - Monitors weekly trend in sales to identify consistency or peak period.
