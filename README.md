@@ -104,7 +104,7 @@ This project demonstrates how Excel can be used as a Business Intelligence (BI) 
 Aspiring Data Analyst  
 
 🔗 GitHub: https://github.com/Raviteja0710  
-
+🔗 LinkedIn Profile: https://www.linkedin.com/in/ch-ravi-teja-b00139367/
 ---
 
 ⭐ If you found this project useful, don’t forget to star the repository!
