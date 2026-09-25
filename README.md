@@ -76,7 +76,7 @@ This project demonstrates how Excel can be used as a Business Intelligence (BI) 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Dashboard_OutPut.png)
+![Dashboard Preview](Dashboard_Output.png)
 
 ---
 
